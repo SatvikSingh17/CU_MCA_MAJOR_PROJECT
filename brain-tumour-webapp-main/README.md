@@ -45,14 +45,3 @@ Modify files in `templates` and `static` directory.
 ## Deployment
 
 To deploy it for public use, you need to upload this app on heroku or other python enabled server. However heroku is pretty good at recognising and running python apps. There is also a free version!
-
-## More resources
-
-Check Siraj's ["How to Deploy a Keras Model to Production"](https://youtu.be/f6Bf3gl4hWY) video. The corresponding [repo](https://github.com/llSourcell/how_to_deploy_a_keras_model_to_production).
-
-[Building a simple Keras + deep learning REST API](https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html).
-
-[How to deploy a Flask App to Heroku](https://progblog.io/How-to-deploy-a-Flask-App-to-Heroku/).
-
-"# deep-learning-brain-tumour-detection" 
-"# brain-tumour-detection-web-app" 
