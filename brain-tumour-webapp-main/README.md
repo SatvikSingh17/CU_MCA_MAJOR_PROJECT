@@ -12,7 +12,7 @@
 
 
 
-> This web application has been created and the changes to whatManu Siddhartha  had already prepared were the following:
+> This web application has been created and the changes had already prepared were the following:
 <ul>
 <li>Inclusion of a procfile to serve the app with gunicorn on the Heroku server after upload (for uploading this python app to Heroku please follow Heroku documentation on how to use git with Heroku)</li>
 <li>As per Heroku requirements for stability and reproducibility, versions of all required python environments were specified in the requirements.txt file</li>
